@@ -169,7 +169,7 @@ print(response.json())
 
 1. **Model Selection**:
    - Evaluated 3 Decision Tree configurations.
-   - Selected **Config 2 (Regularized Gini, Depth 5, Balanced Weights)** which achieved **81.8% Recall on Churn** and an **AUC of 0.83**.
+   - Selected **Config 2 (Regularized Gini, Depth 5, Balanced Weights)** which achieved **79.8% Recall on Churn** and an **AUC of 0.83**.
 2. **Precision vs. Recall Priority**:
    - In telecom retention, **Recall is prioritized over Precision**. Missing an actual churner results in lost Customer Lifetime Value (LTV), whereas sending an unnecessary discount to a non-churning customer incurs a minimal marginal cost.
 3. **Key Drivers**:
