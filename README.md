@@ -1,4 +1,8 @@
 # Telco Customer Churn Prediction & Analytics
+
+## GitHub Repo Link
+https://github.com/VarunSemwal/Customer-Churn-Prediction
+
 ## End-to-End Machine Learning Pipeline & REST API
 
 An end-to-end Machine Learning solution built to predict customer churn for a telecommunications provider using the IBM Telco Customer Churn dataset. The project includes complete data preprocessing, exploratory data analysis, feature engineering, decision tree modeling, model evaluation, feature importance analysis, and deployment via a FastAPI REST API.
